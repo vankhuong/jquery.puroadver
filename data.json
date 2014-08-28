@@ -1,0 +1,78 @@
+{
+    "imgadver" : "images/anh2.jpg",
+    "theme" : {
+        "width" : "500",
+        "height" : "500",
+        "cols" : "4",
+        "rows" : "4"
+    },
+    "company" : {
+        "logo" : "images/Beats-Audio-Logo.png",
+        "site" : "http://www.puropela.com/",
+        "text" : "Nostrud quis iudicem ullamco, fore probant e exercitation, cillum nam possumus non quid",
+        "link" : "https://www.google.com",
+        "gists" : [
+            
+            { "url" : "https://www.google.com", "des" : "Điện thoại Nokia<br /> Số lượng quà: 5<br /> Số người trúng: 2", "img" : "images/data/Nokia-Lumia-9304619.jpg"}, 
+            { "url" : "https://www.google.com", "des" : "Điện thoại Nokia<br /> Số lượng quà: 5<br /> Số người trúng: 2", "img" : "images/data/1520.jpg"}, 
+            { "url" : "https://www.google.com", "des" : "Điện thoại Nokia<br /> Số lượng quà: 5<br /> Số người trúng: 2", "img" : "images/data/Limua-1020.jpg"}, 
+            { "url" : "https://www.google.com", "des" : "Điện thoại Nokia<br /> Số lượng quà: 5<br /> Số người trúng: 2", "img" : "images/data//925.jpg"},
+            
+            { "url" : "https://www.google.com", "des" : "Điện thoại Nokia<br /> Số lượng quà: 5<br /> Số người trúng: 2", "img" : "images/data/Nokia-Lumia-9304619.jpg"}, 
+            { "url" : "https://www.google.com", "des" : "Điện thoại Nokia<br /> Số lượng quà: 5<br /> Số người trúng: 2", "img" : "images/data/1520.jpg"}, 
+            { "url" : "https://www.google.com", "des" : "Điện thoại Nokia<br /> Số lượng quà: 5<br /> Số người trúng: 2", "img" : "images/data/Limua-1020.jpg"}, 
+            { "url" : "https://www.google.com", "des" : "Điện thoại Nokia<br /> Số lượng quà: 5<br /> Số người trúng: 2", "img" : "images/data//925.jpg"}
+            
+        ]
+    },
+    "set" : [
+        {
+            "bg"  : "images/anh2.jpg",
+            "items": [
+                {"title" : "Nokia Lumia 930", "oldPrice" : "16.000.000", "price" : "13.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Nokia-Lumia-9304619.jpg"},
+                {"title" : "Nokia Lumia 1520", "oldPrice" : "16.000.000", "price" : "12.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/1520.jpg"},
+                {"title" : "Nokia Lumia 1020", "oldPrice" : "16.000.000", "price" : "10.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Limua-1020.jpg"},
+                {"title" : "Nokia Lumia 925", "oldPrice" : "16.000.000", "price" : "8.500.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/925.jpg"},
+                
+                {"title" : "Nokia Lumia 930", "oldPrice" : "16.000.000", "price" : "13.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Nokia-Lumia-9304619.jpg"},
+                {"title" : "Nokia Lumia 1520", "oldPrice" : "16.000.000", "price" : "12.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/1520.jpg"},
+                {"title" : "Nokia Lumia 1020", "oldPrice" : "16.000.000", "price" : "10.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Limua-1020.jpg"},
+                {"title" : "Nokia Lumia 925", "oldPrice" : "16.000.000", "price" : "8.500.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/925.jpg"},
+                
+                {"title" : "Nokia Lumia 930", "oldPrice" : "16.000.000", "price" : "13.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Nokia-Lumia-9304619.jpg"},
+                {"title" : "Nokia Lumia 1520", "oldPrice" : "16.000.000", "price" : "12.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/1520.jpg"},
+                {"title" : "Nokia Lumia 1020", "oldPrice" : "16.000.000", "price" : "10.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Limua-1020.jpg"},
+                {"title" : "Nokia Lumia 925", "oldPrice" : "16.000.000", "price" : "8.500.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/925.jpg"},
+                
+                {"title" : "Nokia Lumia 930", "oldPrice" : "16.000.000", "price" : "13.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Nokia-Lumia-9304619.jpg"},
+                {"title" : "Nokia Lumia 1520", "oldPrice" : "16.000.000", "price" : "12.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/1520.jpg"},
+                {"title" : "Nokia Lumia 1020", "oldPrice" : "16.000.000", "price" : "10.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Limua-1020.jpg"},
+                {"title" : "Nokia Lumia 925", "oldPrice" : "16.000.000", "price" : "8.500.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/925.jpg"}
+            ]
+        },
+        {
+            "bg"  : "images/deezay.jpg",
+            "items": [
+                {"title" : "Nokia Lumia 930", "oldPrice" : "16.000.000", "price" : "13.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Nokia-Lumia-9304619.jpg"},
+                {"title" : "Nokia Lumia 1520", "oldPrice" : "16.000.000", "price" : "12.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/1520.jpg"},
+                {"title" : "Nokia Lumia 1020", "oldPrice" : "16.000.000", "price" : "10.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Limua-1020.jpg"},
+                {"title" : "Nokia Lumia 925", "oldPrice" : "16.000.000", "price" : "8.500.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/925.jpg"},
+                
+                {"title" : "Nokia Lumia 930", "oldPrice" : "16.000.000", "price" : "13.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Nokia-Lumia-9304619.jpg"},
+                {"title" : "Nokia Lumia 1520", "oldPrice" : "16.000.000", "price" : "12.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/1520.jpg"},
+                {"title" : "Nokia Lumia 1020", "oldPrice" : "16.000.000", "price" : "10.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Limua-1020.jpg"},
+                {"title" : "Nokia Lumia 925", "oldPrice" : "16.000.000", "price" : "8.500.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/925.jpg"},
+                
+                {"title" : "Nokia Lumia 930", "oldPrice" : "16.000.000", "price" : "13.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Nokia-Lumia-9304619.jpg"},
+                {"title" : "Nokia Lumia 1520", "oldPrice" : "16.000.000", "price" : "12.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/1520.jpg"},
+                {"title" : "Nokia Lumia 1020", "oldPrice" : "16.000.000", "price" : "10.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Limua-1020.jpg"},
+                {"title" : "Nokia Lumia 925", "oldPrice" : "16.000.000", "price" : "8.500.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/925.jpg"},
+                
+                {"title" : "Nokia Lumia 930", "oldPrice" : "16.000.000", "price" : "13.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Nokia-Lumia-9304619.jpg"},
+                {"title" : "Nokia Lumia 1520", "oldPrice" : "16.000.000", "price" : "12.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/1520.jpg"},
+                {"title" : "Nokia Lumia 1020", "oldPrice" : "16.000.000", "price" : "10.000.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/Limua-1020.jpg"},
+                {"title" : "Nokia Lumia 925", "oldPrice" : "16.000.000", "price" : "8.500.000", "url" : "https://www.google.com", "des" : "Snapdragon 800, 2Ghz Ram, 5 inch full HD display", "img" : "images/data/925.jpg"}
+            ]
+        }
+    ]
+}
